@@ -1,0 +1,3 @@
+* Responsable
+* Recursivo
+* respetuoso
