@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Esto es un ejemplo de enfasis en *cursiva* y orta _cursiva_
+y este es un enfasis en **negrita** y este tambie __negrita__
